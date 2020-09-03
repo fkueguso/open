@@ -1,0 +1,13 @@
+<template>
+ <h1>我是一个脚</h1>
+</template>
+<script>
+ data(){
+ return{
+ },
+ methods:{},
+ watch:{},
+ mounted(){},
+ computed(){}
+ }
+</script>
